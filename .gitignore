@@ -1,0 +1,10 @@
+node_modules/
+venv/
+__pycache__/
+*.npz
+*.bin
+pdfs/
+.env
+.DS_Store
+extraction_progress.json
+build_database.log
